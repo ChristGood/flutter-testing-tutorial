@@ -1,6 +1,6 @@
 
 <table style="width:100%">
-  <tr>
+  <tr> 
     <th>License</th>
     <th>Gitlab CI</th>
     <th>Github Action</th>
